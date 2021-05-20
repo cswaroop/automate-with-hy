@@ -1,0 +1,6 @@
+pip3 install --pre --user hy
+
+#+BEGIN_SRC hy :tangle hello.hy
+#!/usr/bin/env hy
+(print "Hello world")
+#+END_SRC
